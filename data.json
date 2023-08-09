@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Presale Contract",
+      "value": "0xef7381bb6101C75E12a5AaF5d1472f0bc2318179"
+    },
+    {
+      "id": 2,
+      "name": "Rate in BNB",
+      "value": "3000000"
+    },
+    {
+      "id": 3,
+      "name": "Title",
+      "value": "HPepe Presale"
+    },
+    {
+      "id": 4,
+      "name": "Description",
+      "value": "HPepe is a crypto meme token that has taken the Binance Smart Chain (BSC) network by storm. Named after the infamous internet meme Pepe, this token has gained a huge following in the crypto community due to its unique and fun nature. Pepe's trend has exploded in popularity, with many investors eager to get in on the action. Despite being a meme token, Pepe has quickly gained a reputation for being a serious investment opportunity, with its value increasing rapidly. With its quirky and unique branding, Pepe is a token that is sure to continue to generate excitement and enthusiasm within the crypto space."
+    },
+    {
+      "id": 5,
+      "name": "Token Name",
+      "value": "H Pepe"
+    },
+    {
+      "id": 6,
+      "name": "Token Contract",
+      "value": "0x1F8589b678e5d6729Cc5f929358032424EDdA46a"
+    },
+    {
+      "id": 7,
+      "name": "Token Symbol",
+      "value": "PEPE"
+    },
+    {
+      "id": 8,
+      "name": "Token Decimal",
+      "value": "9"
+    },
+    {
+      "id": 9,
+      "name": "Token Supply",
+      "value": "420000000000000"
+    },
+    {
+      "id": 10,
+      "name": "Tokens For Presale",
+      "value": "30000000000"
+    },
+    {
+      "id": 11,
+      "name": "Presale Start Time",
+      "value": "2023.08.10 15:00 (UTC)"
+    },
+    {
+      "id": 12,
+      "name": "Presale End Time",
+      "value": "2024.12.31 00:00 (UTC)"
+    },
+    {
+      "id": 13,
+      "name": "Affiliate Commission %",
+      "value": "6"
+    },
+    {
+      "id": 14,
+      "name": "Owner Wallet",
+      "value": "0xef7381bb6101C75E12a5AaF5d1472f0bc2318179"
+    }
+    
+  ]
+  
